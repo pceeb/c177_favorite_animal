@@ -1,0 +1,12 @@
+## Year in college:  
+4th (senior)
+
+## Computing experience:  
+Some experience with R and Bash.
+
+## Mention a topic from biology or any other field that interest you:  
+Population dynamics and ecological modeling.
+
+## Describe what would like to do as a project for this class:  
+I would like to create an R package.
+
